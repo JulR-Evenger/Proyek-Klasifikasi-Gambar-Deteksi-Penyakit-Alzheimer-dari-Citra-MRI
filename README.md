@@ -1,6 +1,5 @@
 # Proyek Klasifikasi Gambar: Deteksi Penyakit Alzheimer dari Citra MRI
 
-![Alzheimer's Detection Banner](https://raw.githubusercontent.com/user-attachments/assets/75047814-2a62-4ef9-8b89-40e1b212dd06)
 
 ## Ringkasan Proyek (TL;DR)
 Proyek ini bertujuan untuk membangun model *Deep Learning* yang mampu mengklasifikasikan citra pemindaian otak (MRI) untuk mendeteksi penyakit Alzheimer. Model *Convolutional Neural Network* (CNN) dibangun menggunakan TensorFlow/Keras untuk membedakan antara otak sehat dan yang menunjukkan tanda-tanda Alzheimer. Model ini berhasil mencapai **akurasi 100%** pada data uji dan disimpan dalam format `SavedModel`, `TFLite`, dan `TensorFlow.js` untuk potensi implementasi di berbagai platform.
